@@ -6,11 +6,11 @@
 /*   By: hovalygtaraa <marvin@42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/27 12:33:56 by hovalygta         #+#    #+#             */
-/*   Updated: 2020/07/31 00:25:39 by hovalygta        ###   ########.fr       */
+/*   Updated: 2021/06/09 10:22:44 by swquinc          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft/libft.h"
 
 int		print_percent(t_specifiers *format)
 {

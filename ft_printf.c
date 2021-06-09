@@ -6,11 +6,11 @@
 /*   By: hovalygtaraa <marvin@42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/24 12:10:44 by hovalygta         #+#    #+#             */
-/*   Updated: 2020/07/31 00:26:19 by hovalygta        ###   ########.fr       */
+/*   Updated: 2021/06/09 10:23:03 by swquinc          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "libft/libft.h"
 
 static void			dot_exist(t_specifiers *format)
 {
